@@ -90,6 +90,7 @@ _ReSharper*/
 # JetBrains IDE
 /.idea
 *.sln.iml
+/Plugins/Developer
 
 # vim
 [._]*.s[a-w][a-z]
